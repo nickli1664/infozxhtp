@@ -1,0 +1,14 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\x64\Debug\zxhtuopan1.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\x64\Debug\zxhtuopan1.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\x64\Debug\zxhtuopan1.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\x64\Debug\websocket-sharp.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.changeSize.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.changeunpw.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.Form1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.Resource1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\x64\Debug\zxhtuopan1.pdb

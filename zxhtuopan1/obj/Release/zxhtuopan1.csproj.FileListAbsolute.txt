@@ -1,0 +1,17 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\Release\zxhtuopan1.exe.config
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\Release\zxhtuopan1.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\Release\zxhtuopan1.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\Release\websocket-sharp.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.changeSize.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.changeunpw.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.Form1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.Resource1.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.exe
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\Release\DYD.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\bin\Release\DYD.xml
+C:\Users\Administrator\documents\visual studio 2015\Projects\zxhtuopan1\zxhtuopan1\obj\Release\zxhtuopan1.Form2.resources
