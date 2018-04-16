@@ -1,0 +1,1 @@
+{"slaveleft":"0.4028","slavetop":"0.4333","slavewidth":"0.0833","slaveheight":"0.125","majorID":"368","minorID":"369","name":"Main stream encoder","type":"4"}

@@ -1,0 +1,1 @@
+{"slaveleft":"0.3826","slavetop":"0.6245","slavewidth":"0.0833","slaveheight":"0.125","majorID":"-1","minorID":"405","name":"Coral_Reef_Adventure_720.wmv","type":"44"}
